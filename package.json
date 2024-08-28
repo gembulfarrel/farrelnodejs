@@ -1,5 +1,5 @@
 {
-  "name": "rayyagans",
+  "name": "farrel",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "start": "node ./index.js",
     "build": "webpack --config webpack.config.js"
   },
-  "author": "rayyagans",
+  "author": "farrel",
   "license": "MIT",
   "dependencies": {
     "express": "^4.19.2",
